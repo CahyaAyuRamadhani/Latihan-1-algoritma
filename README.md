@@ -1,5 +1,7 @@
 # Latihan-1-algoritma
-tugas1
+
+## tugas 1
+
 alat: gelas,sendok kecil
 bahan: kopi,gula,air panas
 1. masukkan kopi kedalam gelas sebanyak 1-2 sendok kecil
@@ -9,8 +11,8 @@ bahan: kopi,gula,air panas
 5. apabila kurang manis tambahkan gula secukupnya
 6. secangkir kopi siap disajikan 
 
+## tugas 2
 
-tugas2
 1. bangun tidur
 2. sholat subuh
 3. membereskan tempat tidur
